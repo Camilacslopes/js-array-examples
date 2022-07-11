@@ -19,3 +19,5 @@ In each of the examples you will find the requirements needed to find the soluti
 - [Return the average of an array of numbers](https://github.com/Camilacslopes/js-array-examples/blob/main/averageArray.js)
 
 - [Return last n array elements](https://github.com/Camilacslopes/js-array-examples/blob/main/returnLast.js)
+
+- [Return the longest string from an array of strings](https://github.com/Camilacslopes/js-array-examples/blob/main/longestString.js)
