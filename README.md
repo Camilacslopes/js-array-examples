@@ -21,3 +21,5 @@ In each of the examples you will find the requirements needed to find the soluti
 - [Return last n array elements](https://github.com/Camilacslopes/js-array-examples/blob/main/returnLast.js)
 
 - [Return the longest string from an array of strings](https://github.com/Camilacslopes/js-array-examples/blob/main/longestString.js)
+
+- [Calculate the sum of an array of numbers](https://github.com/Camilacslopes/js-array-examples/blob/main/sumArray.js)
