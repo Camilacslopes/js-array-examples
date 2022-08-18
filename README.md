@@ -25,3 +25,5 @@ In each of the examples you will find the requirements needed to find the soluti
 - [Calculate the sum of an array of numbers](https://github.com/Camilacslopes/js-array-examples/blob/main/sumArray.js)
 
 - [Merge an arbitrary number of arrays](https://github.com/Camilacslopes/js-array-examples/blob/main/mergeArrays.js)
+
+- [Create a range of numbers](https://github.com/Camilacslopes/js-array-examples/blob/main/rangeArray.js)
