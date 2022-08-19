@@ -6,6 +6,8 @@ In each of the examples you will find the requirements needed to find the soluti
 
 - [Get nth element of array](https://github.com/Camilacslopes/js-array-examples/blob/main/nthElement.js)
 
+- [Get first n elements of an array](https://github.com/Camilacslopes/js-array-examples/blob/main/getFirst.js)
+
 - [Remove a specific array element](https://github.com/Camilacslopes/js-array-examples/blob/main/removeElement.js)
 
 - [Count number of elements in JavaScript array](https://github.com/Camilacslopes/js-array-examples/blob/main/countArray.js)
@@ -29,3 +31,4 @@ In each of the examples you will find the requirements needed to find the soluti
 - [Create a range of numbers](https://github.com/Camilacslopes/js-array-examples/blob/main/rangeArray.js)
 
 - [Sum up all array elements with values greater than](https://github.com/Camilacslopes/js-array-examples/blob/main/sumGreater.js)
+
