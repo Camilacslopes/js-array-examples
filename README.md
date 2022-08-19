@@ -27,3 +27,5 @@ In each of the examples you will find the requirements needed to find the soluti
 - [Merge an arbitrary number of arrays](https://github.com/Camilacslopes/js-array-examples/blob/main/mergeArrays.js)
 
 - [Create a range of numbers](https://github.com/Camilacslopes/js-array-examples/blob/main/rangeArray.js)
+
+- [Sum up all array elements with values greater than](https://github.com/Camilacslopes/js-array-examples/blob/main/sumGreater.js)
