@@ -6,6 +6,8 @@ In each of the examples you will find the requirements needed to find the soluti
 
 - [Get nth element of array](https://github.com/Camilacslopes/js-array-examples/blob/main/nthElement.js)
 
+- [Remove first n elements of an array](https://github.com/Camilacslopes/js-array-examples/blob/main/removeFirst.js)
+
 - [Get first n elements of an array](https://github.com/Camilacslopes/js-array-examples/blob/main/getFirst.js)
 
 - [Remove a specific array element](https://github.com/Camilacslopes/js-array-examples/blob/main/removeElement.js)
