@@ -1,6 +1,18 @@
 # js-array-examples
 
-How?
+[js-arrays](image.png)
+
+**What?**
+
+This repository contains a series of exercises and solutions focused on the fundamentals and properties of arrays in the JavaScript programming language.
+
+
+**Why?**
+
+Through these exercises it is possible to study and better understand how to manipulate data contained in an array, as well as explore different methods of JavaScript.
+
+
+**How?**
 
 In each of the examples you will find the requirements needed to find the solution to the challenge in question. Through this, we will explore different concepts used by JavaScript to manipulate data inserted into an Array, such as filter, sort, slice, length and much more.
 
