@@ -30,10 +30,14 @@ In each of the examples you will find the requirements needed to find the soluti
 
 - [Return the longest string from an array of strings](https://github.com/Camilacslopes/js-array-examples/blob/main/longestString.js)
 
-- [Merge an arbitrary number of arrays](https://github.com/Camilacslopes/js-array-examples/blob/main/mergeArrays.js)
+- [Check if all array elements are equal](https://github.com/Camilacslopes/js-array-examples/blob/main/checkEqual.js)
 
-- [Create a range of numbers](https://github.com/Camilacslopes/js-array-examples/blob/main/rangeArray.js)
+- [Merge an arbitrary number of arrays](https://github.com/Camilacslopes/js-array-examples/blob/main/mergeArrays.js)
 
 - [Sum up all array elements with values greater than](https://github.com/Camilacslopes/js-array-examples/blob/main/sumGreater.js)
 
+- [Sort array by object property](https://github.com/Camilacslopes/js-array-examples/blob/main/sortArrObj.js)
+
 - [Merge two arrays with duplicate values](https://github.com/Camilacslopes/js-array-examples/blob/main/mergeTwoArr.js)
+
+- [Create a range of numbers](https://github.com/Camilacslopes/js-array-examples/blob/main/rangeArray.js)
