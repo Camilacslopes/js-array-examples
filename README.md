@@ -1,6 +1,7 @@
 # js-array-examples
 
-[js-arrays](image.png)
+[js-arrays](![image](https://user-images.githubusercontent.com/60490805/192872616-03150a61-5baf-4a49-86c3-a599185a0337.png)
+
 
 **What?**
 
